@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:3:11-49
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+		INJECTED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml
+permission#com.app.maps.permission.MAPS_RECEIVE
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:11:5-13:46
+	android:protectionLevel
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:12:9-60
+uses-permission#android.permission.INTERNET
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:15:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:16:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:17:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:19:22-77
+application
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:21:5-74:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:24:9-46
+	android:allowBackup
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:23:9-39
+	android:theme
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.fleetviewandroid.LoginForm
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:28:13-50
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:27:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.example.fleetviewandroid.AddRequest
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:35:9-36:52
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:36:13-50
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:35:19-45
+activity#com.example.fleetviewandroid.SelectUser
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:37:9-47
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:37:19-45
+activity#com.example.fleetviewandroid.MainForm
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:40:13-50
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:39:13-37
+activity#com.example.fleetviewandroid.OdoMeter
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:42:9-43:40
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:42:19-43
+activity#com.example.fleetviewandroid.ViewL1Report
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:44:9-49
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:44:19-47
+activity#com.example.fleetviewandroid.Violation
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:45:9-46:52
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:46:13-50
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:45:19-44
+activity#com.example.fleetviewandroid.TodayViolationdetails
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:47:9-58
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:47:19-56
+activity#com.example.fleetviewandroid.ViewViloationReport
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:48:9-56
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:48:19-54
+activity#com.example.fleetviewandroid.RARDViolationdetails
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:49:9-57
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:49:19-55
+activity#com.example.fleetviewandroid.CDViolationdetails
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:50:9-55
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:50:19-53
+activity#com.example.fleetviewandroid.Alerts
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:51:9-52:52
+	android:label
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:52:13-50
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:51:19-41
+activity#com.example.fleetviewandroid.L1Report
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:53:9-45
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:53:19-43
+activity#com.example.fleetviewandroid.FuelEntry
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:54:9-46
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:54:19-44
+activity#com.example.fleetviewandroid.NewGoogle
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:55:9-46
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:55:19-44
+activity#com.example.fleetviewandroid.StatusActivity
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:56:9-51
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:56:19-49
+activity#com.example.fleetviewandroid.VehicleInfoActivity
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:58:9-56
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:58:19-54
+activity#com.example.fleetviewandroid.LoginAct
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:59:9-45
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:59:19-43
+service#com.example.fleetviewandroid.MyService
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:61:9-45
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:61:18-43
+service#com.example.fleetviewandroid.NewService
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:62:9-46
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:62:18-44
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:69:9-71:70
+	android:value
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:71:13-68
+	android:name
+		ADDED from /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/src/main/AndroidManifest.xml:70:13-62
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:22:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:25:8-31

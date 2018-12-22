@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/twtech/Videos/TRANSWORLD/FleetView/Fleetview4module/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/twtech/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_46718c0f453b742bc106889ed12b410ea6fdd87a.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f2522bae7326b56f8159e56df2c7c844b3dbe317.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_af7f7f82769286e11409dbfaaa21f6752cc7f0a3.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c2dbce3b1ff4b84c03552e6080a9d6fe1200d23b.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c76c1360db302ab2b8655dc58a8d3f64bec4fa28.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_4e0e1db9b1c0649f83ce542cabfb950b9550ae50.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_d7c247538d4300c2e37161f00f9e50511ac98a69.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_5b53b833c3af0f2be9acc545cde958b87b212397.jar" />
+    </item>
+    <item
+        jar="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/twtech/Videos/*****Androd-Projects*****/FleetView(4M)/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_54556e8fd2440734c94b3c585042aa89f64c9b37.jar" />
+    </item>
+
+</items>

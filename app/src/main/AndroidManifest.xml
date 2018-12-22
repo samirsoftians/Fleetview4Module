@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.fleetviewandroid"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18"/>
+
+    <permission
+        android:name="com.app.maps.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature"/>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/trans"
+        android:label="FleetView Application"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".LoginForm"
+            android:label="FleetView Application">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".AddRequest"
+            android:label="FleetView Application"/>
+        <activity android:name=".SelectUser"/>
+        <activity
+            android:name=".MainForm"
+            android:label="FleetView Application">
+        </activity>
+        <activity android:name=".OdoMeter"
+            android:label="FleetView"/>
+        <activity android:name=".ViewL1Report"/>
+        <activity android:name=".Violation"
+            android:label="FleetView Application"/>
+        <activity android:name=".TodayViolationdetails"/>
+        <activity android:name=".ViewViloationReport"/>
+        <activity android:name=".RARDViolationdetails"/>
+        <activity android:name=".CDViolationdetails"/>
+        <activity android:name=".Alerts"
+            android:label="FleetView Application"/>
+        <activity android:name=".L1Report"/>
+        <activity android:name=".FuelEntry"/>
+        <activity android:name=".NewGoogle"/>
+        <activity android:name=".StatusActivity"/>
+        <!--<activity android:name=".VehicleCheckableList"/>-->
+        <activity android:name=".VehicleInfoActivity"/>
+        <activity android:name=".LoginAct"/>
+
+        <service android:name=".MyService"/>
+        <service android:name=".NewService"/>
+
+        <!--
+  <meta-data
+  android:name="com.google.android.gms.version"
+  android:value="@integer/google_play_services_version"/>
+        -->
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBPwjClFR10kufpB3oO1YOLCBdps_zcg1k"/>
+
+
+    </application>
+
+</manifest>
